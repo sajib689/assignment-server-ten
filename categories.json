@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Web Development Project"
+    },
+    {
+      "id": "02",
+      "name": "MERN Stack Project"
+    },
+    {
+      "id": "03",
+      "name": "Javascript Development "
+    },
+    {
+      "id": "04",
+      "name": "WordPress Development "
+    },
+    {
+      "id": "05",
+      "name": "PHP Development "
+    },
+    {
+      "id": "06",
+      "name": "Paython Development "
+    },
+    {
+      "id": "07",
+      "name": "React JS Project"
+    },
+    {
+      "id": "08",
+      "name": "All"
+    }
+  ]
